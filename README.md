@@ -565,6 +565,7 @@ Choose the algorithm that u want to test before solving the maze. You can either
 
 CONDITIONS:
 IF there is no way to solve the maze, program will tell you that it’s unsolvable. If did not put enough wall, program will tell you to put more walls 
+
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/643714fc-4c05-4b31-9f6d-18a8c4590b8f)
 
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/1f7aaa96-e1ab-4642-a63b-8526818a25f5)
