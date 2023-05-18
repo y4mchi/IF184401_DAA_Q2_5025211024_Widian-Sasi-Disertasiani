@@ -571,11 +571,12 @@ IF there is no way to solve the maze, program will tell you that it’s unsolvab
 
 TESTING:
 
-A*search:
+A* search:
 Program will count all the possible path first(blue) then will execute the shortest one (green)
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/85b5ff26-20a7-4041-9c60-a02c9f62330d)
 
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/066913c3-3fff-4858-9e74-ab5fa83a07d3)
+
 Execute time: 00.07,00 (With steps) 00.01,90 (Without) 
 
 DFS:
@@ -583,6 +584,7 @@ Program will count all the possible path first(blue) then will execute the short
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/b03761d6-9064-4918-8ee2-040f7afe3c75)
 
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/b0e56da2-d22a-45a0-b99c-de4d641431d3)
+
 Execute time: 00.04,78 (With steps) 00.02,30 (Without)
 
 BFS:
@@ -590,6 +592,7 @@ Program will count all the possible path first(blue) then will execute the short
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/c5825d20-b2cf-494d-bafb-3ee860aa2752)
 
 ![image](https://github.com/y4mchi/IF184401_DAA_Q2_5025211024_Widian-Sasi-Disertasiani/assets/100952724/c7a9b088-7376-445b-b4eb-4abc6cade0e3)
+
 Execute time: 00.10,47 (With steps) 00.01,70 (Without)
 
 ## Conclusion 
